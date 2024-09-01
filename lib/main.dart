@@ -75,7 +75,7 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Text(
+             Text(
               hello,
               style: const TextStyle(fontSize: 20),
             ),
